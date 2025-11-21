@@ -19,10 +19,9 @@ Mitigation Steps:
 2. Summarize Entire Document
 3. Section or Passage Summarization
 4. Question Answering with Retrieval
-5. Review Source Passages
-6. Retain Context Across Queries (Memory)
-7. Ethical and Transparency Information
-8. Accessible and Simple Interface
 
 ## How GenAI is used in this use case
 By using GenAI for both content retrieval and natural language generation, the project transforms bulky, inaccessible policy documents into instantly understandable summaries and answers—saving users time, supporting better decisions, and making public information more accessible.
+
+## Team Collaboration
+Unable to collaborate with other team members due to heacy client deliverables.
