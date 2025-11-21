@@ -26,6 +26,3 @@ Mitigation Steps:
 
 ## How GenAI is used in this use case
 By using GenAI for both content retrieval and natural language generation, the project transforms bulky, inaccessible policy documents into instantly understandable summaries and answers—saving users time, supporting better decisions, and making public information more accessible.
-
-## Team Collaboration
-I was unable to connect with my team members due to heavy client deliverables
